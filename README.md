@@ -24,11 +24,12 @@ The installer asks one question first: **express** (press Enter) keeps YAASM's f
 
 ### What you need
 
-<!-- TO FILL BEFORE MERGING: RAM per map, CPU, and anything else the owner wants listed. -->
-
 - A 64-bit PC (x86_64) with Windows 10/11 or Ubuntu 24.04. On Ubuntu, YAASM runs the game's Windows server through Proton, which the installer sets up.
 - Disk space: about 30 GB for the game server, which YAASM downloads itself, plus room for each server's saves and for backups.
-- RAM: _to fill in_.
+- RAM: at least 16 GB. Each map's server usually starts around 10 GB, and uses more with players and mods, so plan for that per map you run at once.
+- CPU: 4 logical cores to start with.
+
+The RAM and CPU figures are a starting point from running ASA servers, not the result of heavy testing.
 
 ## After installing
 
